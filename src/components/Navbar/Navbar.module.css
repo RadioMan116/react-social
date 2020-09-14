@@ -8,11 +8,12 @@
 	margin-right: 16px;
 }
 
-.item {
+.item a {
 	color: blue;
 	margin-bottom: 8px;
+	text-decoration: none;
 }
 
-.item.active {
+.item a.active {
 	color: red;
 }

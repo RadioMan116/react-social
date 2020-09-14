@@ -1,7 +1,0 @@
-.content {
-	grid-area: c;
-	background: rgb(255 255 255);
-	border-radius: 4px;
-	box-shadow: 0 1px 0 0 rgb(211 217 222),
-		0 0 0 1px rgb(231 232 236);
-}
